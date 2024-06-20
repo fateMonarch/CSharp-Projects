@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\NP7\NP7\bin\Debug\NP7.exe.config
+C:\Users\muham\source\repos\NP7\NP7\bin\Debug\NP7.exe
+C:\Users\muham\source\repos\NP7\NP7\bin\Debug\NP7.pdb
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.Form1.resources
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.Properties.Resources.resources
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.exe
+C:\Users\muham\source\repos\NP7\NP7\obj\Debug\NP7.pdb
