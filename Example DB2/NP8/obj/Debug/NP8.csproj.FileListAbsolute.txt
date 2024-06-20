@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\NP8\NP8\bin\Debug\NP8.exe.config
+C:\Users\muham\source\repos\NP8\NP8\bin\Debug\NP8.exe
+C:\Users\muham\source\repos\NP8\NP8\bin\Debug\NP8.pdb
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.Form1.resources
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.Properties.Resources.resources
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.exe
+C:\Users\muham\source\repos\NP8\NP8\obj\Debug\NP8.pdb
