@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5856BD14-685A-4839-8124-378D5DBDE843}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NP6</RootNamespace>
+    <AssemblyName>NP6</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\Pişti\1-Karo.png" />
+    <Content Include="Properties\Pişti\1-Kupa.png" />
+    <Content Include="Properties\Pişti\1-Maça.png" />
+    <Content Include="Properties\Pişti\1-Sinek.png" />
+    <Content Include="Properties\Pişti\10-Karo.png" />
+    <Content Include="Properties\Pişti\10-Kupa.png" />
+    <Content Include="Properties\Pişti\10-Maça.png" />
+    <Content Include="Properties\Pişti\10-Sinek.png" />
+    <Content Include="Properties\Pişti\2-Karo.png" />
+    <Content Include="Properties\Pişti\2-Kupa.png" />
+    <Content Include="Properties\Pişti\2-Maça.png" />
+    <Content Include="Properties\Pişti\2-Sinek.png" />
+    <Content Include="Properties\Pişti\3-Karo.png" />
+    <Content Include="Properties\Pişti\3-Kupa.png" />
+    <Content Include="Properties\Pişti\3-Maça.png" />
+    <Content Include="Properties\Pişti\3-Sinek.png" />
+    <Content Include="Properties\Pişti\4-Karo.png" />
+    <Content Include="Properties\Pişti\4-Kupa.png" />
+    <Content Include="Properties\Pişti\4-Maça.png" />
+    <Content Include="Properties\Pişti\4-Sinek.png" />
+    <Content Include="Properties\Pişti\5-Karo.png" />
+    <Content Include="Properties\Pişti\5-Kupa.png" />
+    <Content Include="Properties\Pişti\5-Maça.png" />
+    <Content Include="Properties\Pişti\5-Sinek.png" />
+    <Content Include="Properties\Pişti\6-Karo.png" />
+    <Content Include="Properties\Pişti\6-Kupa.png" />
+    <Content Include="Properties\Pişti\6-Maça.png" />
+    <Content Include="Properties\Pişti\6-Sinek.png" />
+    <Content Include="Properties\Pişti\7-Karo.png" />
+    <Content Include="Properties\Pişti\7-Kupa.png" />
+    <Content Include="Properties\Pişti\7-Maça.png" />
+    <Content Include="Properties\Pişti\7-Sinek.png" />
+    <Content Include="Properties\Pişti\8-Karo.png" />
+    <Content Include="Properties\Pişti\8-Kupa.png" />
+    <Content Include="Properties\Pişti\8-Maça.png" />
+    <Content Include="Properties\Pişti\8-Sinek.png" />
+    <Content Include="Properties\Pişti\9-Karo.png" />
+    <Content Include="Properties\Pişti\9-Kupa.png" />
+    <Content Include="Properties\Pişti\9-Maça.png" />
+    <Content Include="Properties\Pişti\9-Sinek.png" />
+    <Content Include="Properties\Pişti\J-Karo.png" />
+    <Content Include="Properties\Pişti\J-Kupa.png" />
+    <Content Include="Properties\Pişti\J-Maça.png" />
+    <Content Include="Properties\Pişti\J-Sinek.png" />
+    <Content Include="Properties\Pişti\K-Karo.png" />
+    <Content Include="Properties\Pişti\K-Kupa.png" />
+    <Content Include="Properties\Pişti\K-Maça.png" />
+    <Content Include="Properties\Pişti\K-Sinek.png" />
+    <Content Include="Properties\Pişti\Q-Karo.png" />
+    <Content Include="Properties\Pişti\Q-Kupa.png" />
+    <Content Include="Properties\Pişti\Q-Maça.png" />
+    <Content Include="Properties\Pişti\Q-Sinek.png" />
+    <None Include="Resources\Q-Sinek.png" />
+    <None Include="Resources\Q-Maça.png" />
+    <None Include="Resources\Q-Kupa.png" />
+    <None Include="Resources\Q-Karo.png" />
+    <None Include="Resources\K-Sinek.png" />
+    <None Include="Resources\K-Maça.png" />
+    <None Include="Resources\K-Kupa.png" />
+    <None Include="Resources\K-Karo.png" />
+    <None Include="Resources\J-Sinek.png" />
+    <None Include="Resources\J-Maça.png" />
+    <None Include="Resources\J-Kupa.png" />
+    <None Include="Resources\J-Karo.png" />
+    <None Include="Resources\10-Sinek.png" />
+    <None Include="Resources\10-Maça.png" />
+    <None Include="Resources\10-Kupa.png" />
+    <None Include="Resources\10-Karo.png" />
+    <None Include="Resources\9-Sinek.png" />
+    <None Include="Resources\9-Maça.png" />
+    <None Include="Resources\9-Kupa.png" />
+    <None Include="Resources\9-Karo.png" />
+    <None Include="Resources\8-Sinek.png" />
+    <None Include="Resources\8-Maça.png" />
+    <None Include="Resources\8-Kupa.png" />
+    <None Include="Resources\8-Karo.png" />
+    <None Include="Resources\7-Sinek.png" />
+    <None Include="Resources\7-Maça.png" />
+    <None Include="Resources\7-Kupa.png" />
+    <None Include="Resources\7-Karo.png" />
+    <None Include="Resources\6-Sinek.png" />
+    <None Include="Resources\6-Maça.png" />
+    <None Include="Resources\6-Kupa.png" />
+    <None Include="Resources\6-Karo.png" />
+    <None Include="Resources\5-Sinek.png" />
+    <None Include="Resources\5-Maça.png" />
+    <None Include="Resources\5-Kupa.png" />
+    <None Include="Resources\5-Karo.png" />
+    <None Include="Resources\4-Sinek.png" />
+    <None Include="Resources\4-Maça.png" />
+    <None Include="Resources\4-Kupa.png" />
+    <None Include="Resources\4-Karo.png" />
+    <None Include="Resources\3-Sinek.png" />
+    <None Include="Resources\3-Maça.png" />
+    <None Include="Resources\3-Kupa.png" />
+    <None Include="Resources\3-Karo.png" />
+    <None Include="Resources\2-Sinek.png" />
+    <None Include="Resources\2-Maça.png" />
+    <None Include="Resources\2-Kupa.png" />
+    <None Include="Resources\2-Karo.png" />
+    <None Include="Resources\1-Sinek.png" />
+    <None Include="Resources\1-Maça.png" />
+    <None Include="Resources\1-Kupa.png" />
+    <None Include="Resources\1-Karo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
