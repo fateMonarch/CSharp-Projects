@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\NP6\NP6\bin\Debug\NP6.exe.config
+C:\Users\muham\source\repos\NP6\NP6\bin\Debug\NP6.exe
+C:\Users\muham\source\repos\NP6\NP6\bin\Debug\NP6.pdb
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.Form1.resources
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.Properties.Resources.resources
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.exe
+C:\Users\muham\source\repos\NP6\NP6\obj\Debug\NP6.pdb
