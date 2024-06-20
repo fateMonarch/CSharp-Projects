@@ -26,7 +26,7 @@ namespace NP6
         public string kart9 = "  ";
         Random rnd = new Random();
 
-        public string image = "C:\\Users\\muham\\OneDrive\\Masaüstü\\B\\Pişti\\";
+        public string image = ".\\Card Game\\NP6\\Resources\\";
         public List<string> karts1 = new List<string>() {" ","1-Sinek","2-Sinek","3-Sinek",
         "4-Sinek","5-Sinek","6-Sinek","7-Sinek","8-Sinek","9-Sinek","10-Sinek","J-Sinek",
         "Q-Sinek","K-Sinek","1-Kupa","2-Kupa","3-Kupa","4-Kupa","5-Kupa","6-Kupa","7-Kupa",
