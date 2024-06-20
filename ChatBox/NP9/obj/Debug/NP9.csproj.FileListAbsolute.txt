@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\NP9\NP9\bin\Debug\NP9.exe.config
+C:\Users\muham\source\repos\NP9\NP9\bin\Debug\NP9.exe
+C:\Users\muham\source\repos\NP9\NP9\bin\Debug\NP9.pdb
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.Form1.resources
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.Properties.Resources.resources
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.exe
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.pdb
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.Form2.resources
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.Form3.resources
+C:\Users\muham\source\repos\NP9\NP9\obj\Debug\NP9.Form4.resources
